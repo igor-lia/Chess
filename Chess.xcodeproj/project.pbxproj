@@ -104,11 +104,11 @@
 				9D84568F28B0EFC200C17ED9 /* AppDelegate.swift */,
 				9D84569128B0EFC200C17ED9 /* SceneDelegate.swift */,
 				9D84569328B0EFC200C17ED9 /* ViewController.swift */,
+				9D8456BF28B0F01300C17ED9 /* BoardView.swift */,
 				9D84569528B0EFC200C17ED9 /* Main.storyboard */,
 				9D84569828B0EFC500C17ED9 /* Assets.xcassets */,
 				9D84569A28B0EFC500C17ED9 /* LaunchScreen.storyboard */,
 				9D84569D28B0EFC500C17ED9 /* Info.plist */,
-				9D8456BF28B0F01300C17ED9 /* BoardView.swift */,
 			);
 			path = Chess;
 			sourceTree = "<group>";
